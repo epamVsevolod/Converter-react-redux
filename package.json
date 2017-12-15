@@ -18,7 +18,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "babel source --presets babel-preset-es2015 --out-dir distribution",
+    "build": "react-scripts build",
     "prepublish": "npm run build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"

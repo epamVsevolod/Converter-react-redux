@@ -8,7 +8,29 @@
 
 # production
 /build
-/src
+/src/img
+/src/reducers
+/src/App.css
+/src/App.js
+/src/Calculator.css
+/src/Calculator.js
+/src/Charts.css
+/src/Charts.js
+/src/crypto.png
+/src/CryptoPortfolio.css
+/src/CryptoPortfolio.js
+/src/CurrencyTradeInfo.css
+/src/CurrencyTradeInfo.js
+/src/Header.css
+/src/Header.js
+/src/Home.css
+/src/Home.js
+/src/logo.png
+/src/Menu.css
+/src/Menu.js
+/src/NotFound.css
+/src/NotFound.js
+/src/registerServiceWorker.js
 README.md
 
 # misc
